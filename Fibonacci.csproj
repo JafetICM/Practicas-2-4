@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework> <!-- Se agrega '-windows' -->
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <UseWPF>false</UseWPF> <!-- Si no utilizas WPF, esto puede permanecer en false -->
+    <UseWindowsForms>true</UseWindowsForms> <!-- Esto habilita Windows Forms -->
+  </PropertyGroup>
+
+</Project>
