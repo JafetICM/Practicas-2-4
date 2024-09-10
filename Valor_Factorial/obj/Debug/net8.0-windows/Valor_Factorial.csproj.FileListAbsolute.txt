@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Valor_Factorial\obj\Debug\net8.0-windows\Valor_Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Valor_Factorial\obj\Debug\net8.0-windows\Valor_Factorial.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Valor_Factorial\obj\Debug\net8.0-windows\Valor_Factorial.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Valor_Factorial\obj\Debug\net8.0-windows\Valor_Factorial.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Valor_Factorial\bin\Debug\net8.0-windows\Valor_Factorial.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Valor_Factorial\bin\Debug\net8.0-windows\Valor_Factorial.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Valor_Factorial\bin\Debug\net8.0-windows\Valor_Factorial.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Valor_Factorial\bin\Debug\net8.0-windows\Valor_Factorial.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Valor_Factorial\bin\Debug\net8.0-windows\Valor_Factorial.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Valor_Factorial\obj\Debug\net8.0-windows\Valor_Factorial.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Valor_Factorial\obj\Debug\net8.0-windows\refint\Valor_Factorial.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Valor_Factorial\obj\Debug\net8.0-windows\Valor_Factorial.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Valor_Factorial\obj\Debug\net8.0-windows\Valor_Factorial.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Valor_Factorial\obj\Debug\net8.0-windows\ref\Valor_Factorial.dll
