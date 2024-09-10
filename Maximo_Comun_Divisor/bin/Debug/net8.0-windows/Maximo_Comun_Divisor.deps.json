@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Maximo_Comun_Divisor/1.0.0": {
+        "runtime": {
+          "Maximo_Comun_Divisor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Maximo_Comun_Divisor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

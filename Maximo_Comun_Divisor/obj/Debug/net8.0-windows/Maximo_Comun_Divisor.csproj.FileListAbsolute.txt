@@ -1,0 +1,14 @@
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Maximo_Comun_Divisor\bin\Debug\net8.0-windows\Maximo_Comun_Divisor.exe
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Maximo_Comun_Divisor\bin\Debug\net8.0-windows\Maximo_Comun_Divisor.deps.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Maximo_Comun_Divisor\bin\Debug\net8.0-windows\Maximo_Comun_Divisor.runtimeconfig.json
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Maximo_Comun_Divisor\bin\Debug\net8.0-windows\Maximo_Comun_Divisor.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Maximo_Comun_Divisor\bin\Debug\net8.0-windows\Maximo_Comun_Divisor.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Maximo_Comun_Divisor\obj\Debug\net8.0-windows\Maximo_Comun_Divisor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Maximo_Comun_Divisor\obj\Debug\net8.0-windows\Maximo_Comun_Divisor.AssemblyInfoInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Maximo_Comun_Divisor\obj\Debug\net8.0-windows\Maximo_Comun_Divisor.AssemblyInfo.cs
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Maximo_Comun_Divisor\obj\Debug\net8.0-windows\Maximo_Comun_Divisor.csproj.CoreCompileInputs.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Maximo_Comun_Divisor\obj\Debug\net8.0-windows\Maximo_Comun_Divisor.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Maximo_Comun_Divisor\obj\Debug\net8.0-windows\refint\Maximo_Comun_Divisor.dll
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Maximo_Comun_Divisor\obj\Debug\net8.0-windows\Maximo_Comun_Divisor.pdb
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Maximo_Comun_Divisor\obj\Debug\net8.0-windows\Maximo_Comun_Divisor.genruntimeconfig.cache
+C:\Users\HP Elitebook\OneDrive - Universidad Tecnológica Metropolitana\Documentos\Respaldo\Maximo_Comun_Divisor\obj\Debug\net8.0-windows\ref\Maximo_Comun_Divisor.dll
